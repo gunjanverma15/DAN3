@@ -1,5 +1,5 @@
 # DAN3
-DAN
+},
    "name": "dan-api",
   "version": "1.0.0",
   "description": "DAN - Disability Assistance Network Backend API",
