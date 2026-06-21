@@ -1,4 +1,5 @@
 # DAN3/apps/api/package.json/
+      },
    "name": "dan-api",
   "version": "1.0.0",
   "description": "DAN - Disability Assistance Network Backend API",
