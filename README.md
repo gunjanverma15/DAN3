@@ -1,8 +1,6 @@
 # DAN3
 DAN
-apps/api/package.json
-{
-  "name": "dan-api",
+   "name": "dan-api",
   "version": "1.0.0",
   "description": "DAN - Disability Assistance Network Backend API",
   "author": "DAN Team",
@@ -14,7 +12,6 @@ apps/api/package.json
     "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
     "start:prod": "node dist/main.js",
-
     "lint": "eslint \"src/**/*.ts\" --fix",
 
     "test": "jest",
