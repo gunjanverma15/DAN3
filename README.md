@@ -1,5 +1,6 @@
 # DAN3
 DAN
+apps/api/package.json
 {
   "name": "dan-api",
   "version": "1.0.0",
@@ -84,4 +85,3 @@ DAN
 
     "typescript": "^5.7.2"
   }
-}
