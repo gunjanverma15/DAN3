@@ -82,5 +82,7 @@
 
     "typescript": "^5.7.2"
   }
-      DAN/api,
+      apps/api,
+      Bash
+      apps/api
       
